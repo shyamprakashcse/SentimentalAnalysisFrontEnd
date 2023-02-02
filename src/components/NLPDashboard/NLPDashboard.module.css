@@ -1,0 +1,62 @@
+.nlpdashboard{
+    font-family:Georgia, 'Times New Roman', Times, serif; 
+    
+}
+
+.topboard{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: rgb(13, 13, 62); 
+    /* background-color: rgb(27, 19, 25); */
+   
+
+}
+
+.cards{
+    width:400px;
+    /* height: 200px; */
+    font-family:Georgia, 'Times New Roman', Times, serif; 
+    margin: 2%;
+    border-radius: 1em;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: rgb(255, 255, 255);
+    border:2px solid white; 
+    -webkit-border-radius: 1em;
+    -moz-border-radius: 1em;
+    -ms-border-radius: 1em;
+    -o-border-radius: 1em;
+}
+
+.danger{
+    background-color: rgb(228, 113, 113);
+}
+
+.topknob{
+   margin-left: 20%;
+}
+
+.bargraph{
+    width:500px; 
+    height:500px; 
+    
+}
+
+.aspectsgraphdiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around; 
+    /* background-color: rgb(27, 19, 25); */
+}
+
+.aspectcarosel{
+    /* background-color: rgb(13, 13, 62);  */
+    margin:2%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
+
+.drop{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}

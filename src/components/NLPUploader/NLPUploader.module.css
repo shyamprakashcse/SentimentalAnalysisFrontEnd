@@ -1,0 +1,48 @@
+.uploaddiv{
+    background-color: var(--purple-100);
+    font-family: 'Times New Roman', Times, serif;
+     
+   
+   
+}
+
+.uploaddivtit{
+    margin-bottom: 1%;
+    /* background-color: aquamarine; */
+    /* background-color: bisque; */
+    background-color: var(--purple-500);
+   
+}
+
+.uploadform{
+    width:max-content; 
+    border-left: 5px solid red; 
+    margin-left:1%; 
+    
+   
+}
+
+.formcarder{
+    /* background-color: var(--purple-100); */
+    /* background-color: aquamarine; */
+    background-color: bisque;
+}
+
+.columndiv{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    flex-direction: column; 
+    justify-content: space-between;
+    /* background-color: bisque; */
+    border-left:10px solid red; 
+    width:70%; 
+    margin-left:10%; 
+    margin-top: 2%;
+}
+
+.dropbar{
+    margin: 1%;
+    display: flex;
+    justify-content: space-around;
+}
